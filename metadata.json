@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Shopee Blogger Template Builder",
+  "description": "Generate error-free Shopee affiliate templates for Blogspot with a professional structure and customizable CSS styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
